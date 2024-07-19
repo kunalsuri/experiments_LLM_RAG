@@ -1,2 +1,2 @@
 # experiments_LLM_RAG
-Experimenting with LLMs and related tech.
+Experimenting with LLMs, RAG and other related tech.
